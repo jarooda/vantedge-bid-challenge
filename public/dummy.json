@@ -1,0 +1,85 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": "TDR-2026-0142",
+      "name": "Pembangunan gedung kantor kecamatan",
+      "agency": "Dinas PUPR",
+      "hps": 4850000000,
+      "deadline": "2026-11-14",
+      "status": "Tayang"
+    },
+    {
+      "id": "TDR-2026-0139",
+      "name": "Pengadaan alat kesehatan RSUD",
+      "agency": "Dinas Kesehatan",
+      "hps": 2310000000,
+      "deadline": "2026-11-10",
+      "status": "Evaluasi"
+    },
+    {
+      "id": "TDR-2026-0137",
+      "name": "Rehabilitasi jalan poros desa ruas 3",
+      "agency": "Dinas PUPR",
+      "hps": 1975000000,
+      "deadline": "2026-10-28",
+      "status": "Selesai"
+    },
+    {
+      "id": "TDR-2026-0135",
+      "name": "Jasa konsultansi perencanaan drainase kota",
+      "agency": "Bappeda",
+      "hps": 640000000,
+      "deadline": "2026-11-21",
+      "status": "Draft"
+    },
+    {
+      "id": "TDR-2026-0131",
+      "name": "Pengadaan laptop dan perangkat jaringan",
+      "agency": "Dinas Kominfo",
+      "hps": 875500000,
+      "deadline": "2026-11-07",
+      "status": "Evaluasi"
+    },
+    {
+      "id": "TDR-2026-0128",
+      "name": "Pembangunan sekolah dasar negeri 04",
+      "agency": "Dinas Pendidikan",
+      "hps": 3420000000,
+      "deadline": "2026-10-18",
+      "status": "Dibatalkan"
+    },
+    {
+      "id": "TDR-2026-0124",
+      "name": "Penyediaan makanan dan minuman rapat",
+      "agency": "Sekretariat Daerah",
+      "hps": 185000000,
+      "deadline": "2026-11-19",
+      "status": "Tayang"
+    },
+    {
+      "id": "TDR-2026-0120",
+      "name": "Pemeliharaan taman dan ruang terbuka hijau",
+      "agency": "Dinas Lingkungan Hidup",
+      "hps": 420000000,
+      "deadline": "2026-10-02",
+      "status": "Selesai"
+    },
+    {
+      "id": "TDR-2026-0117",
+      "name": "Pengadaan kendaraan operasional pemadam",
+      "agency": "BPBD",
+      "hps": 2750000000,
+      "deadline": "2026-11-25",
+      "status": "Draft"
+    },
+    {
+      "id": "TDR-2026-0113",
+      "name": "Jasa kebersihan gedung perkantoran",
+      "agency": "Sekretariat Daerah",
+      "hps": 312000000,
+      "deadline": "2026-11-12",
+      "status": "Tayang"
+    }
+  ]
+}
