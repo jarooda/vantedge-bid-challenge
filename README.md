@@ -1,6 +1,29 @@
 # vantedge-bid-challenge
 
-This template should help get you started developing with Vue 3 in Vite.
+A tender listing dashboard for browsing procurement packages (agency, HPS value, deadline, and status), built with Vue 3, Vite, TypeScript, and Tailwind CSS.
+
+## Running Locally
+
+Demo: https://vantedge-bid-challenge.vercel.app/
+
+**Prerequisites:** Node.js `^22.18.0` or `>=24.12.0`, and [pnpm](https://pnpm.io/installation) (`npm install -g pnpm`).
+
+1. Clone the repo and enter the project folder:
+   ```sh
+   git clone https://github.com/jarooda/vantedge-bid-challenge.git
+   cd vantedge-bid-challenge
+   ```
+2. Install dependencies:
+   ```sh
+   pnpm install
+   ```
+3. Start the dev server:
+   ```sh
+   pnpm dev
+   ```
+4. Open the URL shown in the terminal (default: http://localhost:5173).
+
+To try the production build: `pnpm build`, then `pnpm preview`.
 
 ## Recommended IDE Setup
 
@@ -22,21 +45,3 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-pnpm build
-```
